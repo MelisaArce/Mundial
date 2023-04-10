@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{64BF7EE7-CE81-43B2-A05A-C0F4C3432A82}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Mundial</RootNamespace>
+    <AssemblyName>Mundial</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cuartos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cuartos.Designer.cs">
+      <DependentUpon>cuartos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DATOS\conexion_Class.cs" />
+    <Compile Include="DATOS\crudPartidos.cs" />
+    <Compile Include="faseDeGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="faseDeGrupos.Designer.cs">
+      <DependentUpon>faseDeGrupos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="final.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="final.Designer.cs">
+      <DependentUpon>final.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="octavos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="octavos.Designer.cs">
+      <DependentUpon>octavos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PARTIDOS\Partido.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="semi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="semi.Designer.cs">
+      <DependentUpon>semi.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cuartos.resx">
+      <DependentUpon>cuartos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="faseDeGrupos.resx">
+      <DependentUpon>faseDeGrupos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="final.resx">
+      <DependentUpon>final.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="octavos.resx">
+      <DependentUpon>octavos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="semi.resx">
+      <DependentUpon>semi.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Banderas\BanAlemania.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanArgentina.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanQatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanEcuador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanPaisesBajos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanSenegal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanInglaterrra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanArabiaSaudita.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanAustralia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\bandera blanca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanDinamarca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanEEUU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanFrancia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanGales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanInglaterra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanIràn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanMex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanPolonia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanTunez.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanBelgica.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanBrasil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanEspaña.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanPortugal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanCanada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanCostaRica.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanGhana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanSerbia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanMarruecos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanSuiza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanUruguay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanCamerun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanCoreaDelSur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanCroacia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Banderas\BanJapon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoForm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoPasto.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

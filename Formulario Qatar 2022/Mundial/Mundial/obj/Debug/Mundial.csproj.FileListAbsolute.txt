@@ -1,0 +1,143 @@
+D:\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe
+D:\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.pdb
+D:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.MainForm.resources
+D:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.Cache
+D:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+D:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+D:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+E:\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe
+E:\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.pdb
+E:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+E:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.MainForm.resources
+E:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+E:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+E:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.cache
+E:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+E:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+E:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+E:\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe.config
+E:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+D:\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe.config
+D:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+D:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+D:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+D:\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe.config
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.pdb
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.cache
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+C:\Users\Branco\Desktop\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.faseDeGrupos.resources
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe.config
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.pdb
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.faseDeGrupos.resources
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.cache
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+C:\Users\Branco\Desktop\tp mundial corre\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe.config
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.pdb
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.faseDeGrupos.resources
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+C:\Users\Usuario\OneDrive\Documentos\GitHub\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+C:\Users\Melchus\Desktop\tp_mundial\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+C:\Users\Melchus\Desktop\tp_mundial\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melchus\Desktop\tp_mundial\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.faseDeGrupos.resources
+C:\Users\Melchus\Desktop\tp_mundial\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+C:\Users\Melchus\Desktop\tp_mundial\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+C:\Users\Melchus\Desktop\tp_mundial\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.cache
+C:\Users\Melchus\Desktop\tp_mundial\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\Melchus\Desktop\tp_mundial\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+C:\Users\Melchus\Desktop\tp_mundial\Tp-Mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.faseDeGrupos.resources
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe.config
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe
+C:\Users\Usuario\Downloads\Tp-Mundial-2e5f141feac8ab9b547ce2206325ddd9d3a4fbd6\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+C:\Users\Branco\Desktop\TP-mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.octavos.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe.config
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.pdb
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.faseDeGrupos.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.octavos.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.cache
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe.config
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.pdb
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.faseDeGrupos.resources
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.octavos.resources
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.cache
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+C:\Users\Branco\Desktop\TP-mundial-a2f3cd54c1f13599f9fbfff0a716707bcb5562b5\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.faseDeGrupos.resources
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.octavos.resources
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe.config
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.exe
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\bin\Debug\Mundial.pdb
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.AssemblyReference.cache
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.faseDeGrupos.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Menu.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.octavos.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.Properties.Resources.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.GenerateResource.cache
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.csproj.CoreCompileInputs.cache
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.exe
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.pdb
+C:\Users\Branco\Desktop\TP-mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.cuartos.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.cuartos.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.final.resources
+C:\Users\Melchus\Desktop\tp_mundial\TP-mundial1\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.semi.resources
+C:\Users\Branco\Desktop\TP-mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.final.resources
+C:\Users\Branco\Desktop\TP-mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.semi.resources
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.cuartos.resources
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.final.resources
+C:\Users\Usuario\OneDrive\Escritorio\TP mundial\Formulario Qatar 2022\Mundial\Mundial\obj\Debug\Mundial.semi.resources
