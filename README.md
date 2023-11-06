@@ -1,4 +1,5 @@
 # Fixture Digital de Torneo de Fútbol
+<img src="img/paulcito.png">
 
 Este es un proyecto de aplicación de escritorio desarrollado en C# que utiliza una base de datos en SQL Server. La aplicación simula el torneo mundial de futbol Qatar 2022 y calcula qué equipos pasan de fase en fase, desde grupos hasta la final, considerando diversas variables.
 
